@@ -29,6 +29,7 @@
 `국민대학교_마크다운_에디터_오프라인.html`을 더블클릭합니다.
 
 개발 저장소를 직접 내려받은 경우에는 `index.html`과 `assets/fonts` 폴더를 함께 보관해야 합니다.
+Pretendard 글꼴은 `assets/fonts/Pretendard-LICENSE.txt`의 SIL Open Font License 1.1에 따라 배포됩니다.
 
 ## 제한사항
 
